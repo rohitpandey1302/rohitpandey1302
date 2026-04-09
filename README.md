@@ -43,13 +43,13 @@ Currently focused on **backend-focused engineering roles**, scalable APIs, event
 `Kotlin` `Java` `Android SDK` `Jetpack Compose` `MVVM` `Coroutines` `Flow`
 
 ### Backend
-`Java` `Spring Boot` `REST APIs` `JPA/Hibernate` `OAuth2` `Kafka`
+`Java` `Spring Boot` `REST APIs` `JPA/Hibernate` `OAuth2` `Kafka` `Microservices`
 
 ### Databases
 `MySQL` `PostgreSQL` `MongoDB` `SQLite`
 
 ### DevOps & Cloud
-`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `AWS` `Azure`
+`Docker` `Kubernetes` `GitHub Actions` `AWS`
 
 ### Testing
 `JUnit` `Mockito` `Espresso`
